@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lee-fuhr.github.io/cocktail-kit-picks/sitemap.xml
